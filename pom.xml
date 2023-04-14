@@ -84,7 +84,7 @@
 					<scanIntervalSeconds>5</scanIntervalSeconds>
 				</configuration>
 			</plugin>
-			<!-- Compile java  program-->
+			<!-- Compile java  program compilation-->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
